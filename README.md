@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J4FF
 - 👀 I’m interested in Computers, Python and Java
-- 🌱 I’m currently learning Python, Java, Binary system
+- 🌱 I’m currently learning Python, Java and the Binary system
 - 📫 You can reach me via Discord(J_AFF#1652)
 
 <!---
