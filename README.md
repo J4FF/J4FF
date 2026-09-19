@@ -1,6 +1,5 @@
 - 👋 Hi, I’m J_4FF
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
+- 👀 Computer Science Student
 - 📫 You can reach me via Discord(j_aff)
 
 <!---
